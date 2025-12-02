@@ -6,7 +6,8 @@ Estudante e um futuro desenvolvedor apaixonado por **Rust** e programação de s
 
 ## Projetos 🧠
 
-desconto_rust: https://github.com/miguelamorim-crt/desconto_rust
+desconto rust: https://github.com/miguelamorim-crt/desconto_rust
+lista de compras: https://github.com/miguelamorim-crt/lista-de-compras_rust/blob/main/README.md
 
 ## Meu Road Card 🧑‍🎓
 
