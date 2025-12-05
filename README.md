@@ -42,7 +42,8 @@
 <div style="margin-top: 30px;">
   <h2>🧑‍🎓 Meu Road Card</h2>
   <p>
-    <a href="https://roadmap.sh" target="_blank">📌 roadmap.sh</a>
+    ![Meu Roadmap Rust](https://roadmap.sh/card/tall/6924df08467651eddb678511)
+
   </p>
 </div>
 
