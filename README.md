@@ -1,5 +1,17 @@
 # Miguel Amorim | Futuro Rust Developer 🦀
 
+<div align="center" style="
+  background: linear-gradient(to right, red, black);
+  color: white;
+  padding: 20px;
+  border-radius: 10px;
+  font-size: 24px;
+  font-weight: bold;
+">
+  explorando rust 🦀
+</div>
+
+
 ## Sobre mim 🧑‍💻
 
 Estudante e um futuro desenvolvedor apaixonado por **Rust** e programação de sistemas. Atualmente focado em aprender Rust do zero ao profissional, construindo projetos praticos e explorando o ecosistema da linguagem.
