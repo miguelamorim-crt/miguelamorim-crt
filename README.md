@@ -1,7 +1,7 @@
 # Miguel Amorim | Futuro Desenvolvedor Rust 🦀
 
 ## Sobre Mim 🧑‍💻
-um futuro desenvolvedo apaixonado por **Rust** e **Back-end**, focado em aprender Rust do zero ao profissional.
+um futuro desenvolvedor apaixonado por **Rust** e **Back-end**, focado em aprender Rust do zero ao profissional.
 
 ## Linguagens 🧑‍🎓
 
