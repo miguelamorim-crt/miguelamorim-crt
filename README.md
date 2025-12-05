@@ -1,53 +1,21 @@
-# Miguel Amorim | Futuro Rust Developer 🦀
+# Miguel Amorim | Futuro Desenvolvedor Rust 🦀
 
-<!-- Cabeçalho com fundo degradê -->
-<div align="center" style="
-  background: linear-gradient(to right, red, black);
-  color: white;
-  padding: 25px;
-  border-radius: 12px;
-  font-size: 26px;
-  font-weight: bold;
-">
-  explorando rust 🦀
-</div>
+## Sobre Mim 🧑‍💻
+um futuro desenvolvedo apaixonado por **Rust** e **Back-end**, focado em aprender Rust do zero ao profissional.
 
-<!-- Sobre mim -->
-<div style="margin-top: 30px;">
-  <h2>🧑‍💻 Sobre mim</h2>
-  <p>
-    Estudante e futuro desenvolvedor apaixonado por <b>Rust</b> e programação de sistemas.<br>
-    Atualmente focado em aprender Rust do zero ao profissional, construindo projetos práticos e explorando o ecossistema da linguagem.
-  </p>
-</div>
+## Linguagens 🧑‍🎓
 
-<!-- Projetos -->
-<div style="margin-top: 30px;">
-  <h2>🧠 Projetos</h2>
-  <ul>
-    <li>
-      <a href="https://github.com/miguelamorim-crt/desconto_rust" target="_blank">
-        💸 Desconto Rust
-      </a>
-    </li>
-    <li>
-      <a href="https://github.com/miguelamorim-crt/lista-de-compras_rust/blob/main/README.md" target="_blank">
-        🛒 Lista de Compras Rust
-      </a>
-    </li>
-  </ul>
-</div>
+1. Python
+2. C++
+3. Go
+4. Rust(atual)
 
-<!-- Roadmap -->
-<div style="margin-top: 30px;">
-  <h2>🧑‍🎓 Meu Road Card</h2>
-  <p>
-    ![Meu Roadmap Rust](https://roadmap.sh/card/tall/6924df08467651eddb678511)
+## Projetos Rust ✍️
+![Rust](https://img.shields.io/badge/Rust-orange?style=for-the-badge&logo=rust)
 
-  </p>
-</div>
+Desconto Rust:
+tecnologias usadas: Rust
 
-<!-- Rodapé -->
-<div align="center" style="margin-top: 40px; font-size: 14px; color: gray;">
-  ✨ Espero melhorar muito no futuro! ✨
-</div>
+Lista de compras:
+tecnologias usadas: Rust
+
