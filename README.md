@@ -13,7 +13,7 @@ um futuro desenvolvedo apaixonado por **Rust** e **Back-end**, focado em aprende
 
 ## Projetos Rust ✍️
 
-Desconto Rust:
+Desconto Rust: https://github.com/miguelamorim-crt/desconto_rust
 tecnologias usadas: Rust
 
 Lista de compras:
