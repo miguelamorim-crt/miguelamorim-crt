@@ -19,3 +19,5 @@ tecnologias usadas: Rust
 Lista de compras: https://github.com/miguelamorim-crt/lista-de-compras_rust
 tecnologias usadas: Rust
 
+## Meu Road Card 🔝
+[![roadmap.sh](https://roadmap.sh/card/wide/6924df08467651eddb678511?variant=dark)](https://roadmap.sh)
